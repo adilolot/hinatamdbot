@@ -31,7 +31,7 @@
 
 ## Bugs and Tester
 * Jika kamu menemukan bug jangan lupa buka Issues
-* Info Lebih Lanjut, Chat [owner-hinata](https://wa.me/6281575886399)
+* Info Lebih Lanjut, Chat [owner-hinata](https://wa.me/6285839154607)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -68,11 +68,11 @@ npm start
 </p>
 
 ## Donate
-- [Dana](https://wa.me/6281575886399?text=Bang+mau+donasi)
-- [Gopay](https://wa.me/6281575886399?text=Bang+mau+donasi)
-
-# Thanks to
-- Dika Ardnt
-- Fatih Arridho
-- Yoga
-- Riy
+- [Dana](https://wa.me/6285839154607?text=Bang+mau+donasi)
+- [Gopay](https://wa.me/6285839154607?text=Bang+mau+donasi)
+kami
+# Terimakasih untuk
+- Adi store1
+- Adi host
+- Adi store2
+- Adi gaming
